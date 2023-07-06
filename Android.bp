@@ -68,6 +68,7 @@ android_library {
     visibility: [
         ":__subpackages__",
         "//packages/apps/ThemePicker:__subpackages__",
+        "//packages/apps/BlasterThemePicker",
         "//vendor:__subpackages__",
     ],
 }
